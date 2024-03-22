@@ -23,8 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/HTML/HTML-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fhtml-icon%2F&psig=AOvVaw1BRJ-gbXwOLX0lLRv9IBos&ust=1711182378265000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICy3aC5h4UDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fhtml-icon%2F&psig=AOvVaw1BRJ-gbXwOLX0lLRv9IBos&ust=1711182378265000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICy3aC5h4UDFQAAAAAdAAAAABAE" height="40" alt="HTML logo"  />
-  <img width="12" />
+ 
  </div>
 
 ###
